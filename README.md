@@ -1,8 +1,7 @@
 
 # Practice Statement
 
-Authentication and Authorization are the important parts of any application to authorize the user. Authentication is usually done by JWT tokens whereas Authorization is done using OAuth. In ExpressJS we use JWT to authenticate the user.
-Build a REST API using ExpressJS for user authentication using JWT.
+Create JWTAuth with Express.js
 
 # Tasks
 Create an Express server to service requests from clients.​
