@@ -34,14 +34,4 @@ Test the output in the REST Client Postman.
  
  5.Run the test scripts available under src/test by giving the npm run test command in the terminal to test locally.
  
- 6.Refactor the solution to ensure all test cases are passing.
-
- 7.Test all REST end points on **POSTMAN**
- 
- 8.Zip the solution code with the name same as the assignment name.
- 
- 9.Upload the zipped solution for submission.
-
-
- 
 
